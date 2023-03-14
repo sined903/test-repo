@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+#webpack
+
+src 
+.browserslistrc
+package-lock.json
+package.json
+webpack.config.js
+
