@@ -1,0 +1,15 @@
+@import 'block/var.scss';
+@import "~bootstrap/scss/bootstrap";
+
+
+*, *:before, *:after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.test {
+  width: 100px;
+  height: 100px;
+  background: $blue-100;
+}
